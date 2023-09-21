@@ -1,4 +1,4 @@
-# Chat Appications
+# Chat Application
 [Play around with the Chat app🙂 ](https://chat-app-cm.netlify.app/)
 
 | Example users | Password  |
